@@ -8,6 +8,8 @@
 7. [Area Chart](https://app.powerbi.com/groups/me/reports/c38dc8ee-5e14-4f8d-8f89-42d008c52204/f14f5f5e751694c2a275?experience=power-bi)<br/>
 8. [Ribbon Chart](https://app.powerbi.com/groups/me/reports/de3eff94-93ba-4413-98b6-ab7445c7f1b3/56922b75b1066985c423?experience=power-bi)<br/>
 9. [Line & Stacked Column Chart](https://app.powerbi.com/groups/me/reports/03ff76cb-1a53-4431-bcec-f981be15b493/336e3043b2ad2a49bdca?experience=power-bi)<br/>
+10. [Line & Clustered Column Chart](https://app.powerbi.com/groups/me/reports/fadddc00-1dfb-47d5-8232-9314490a0e92/e277a65942ad2aa03579?experience=power-bi)<br/>
+
 
 
 
