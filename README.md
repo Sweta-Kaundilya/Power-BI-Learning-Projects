@@ -4,6 +4,8 @@
 3. [Pie & Donut Chart](https://app.powerbi.com/groups/me/reports/0d264567-89cb-4f87-b4a1-99c1ad2f8d84/676918c509cea827dedc?experience=power-bi)<br/>
 4. [Clustered Column Chart](https://app.powerbi.com/groups/me/reports/c88bc957-3263-45fe-9f51-4f7e543f5bf4/a787e2e344300975cd1e?experience=power-bi)<br/>
 5. [Clustered Bar Chart](https://app.powerbi.com/groups/me/reports/d3ebd2ed-2e75-499c-8a7d-a112b1675423/ce298f503daa3a35969d?experience=power-bi)<br/>
+6. [Line Chart](https://app.powerbi.com/groups/me/reports/437ff9c2-8095-4c9d-9e71-c67b9a47b06a/7f8286585502617d021d?experience=power-bi)<br/>
+
 
 
 
