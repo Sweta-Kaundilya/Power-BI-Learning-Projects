@@ -11,6 +11,8 @@
 10. [Line & Clustered Column Chart](https://app.powerbi.com/groups/me/reports/fadddc00-1dfb-47d5-8232-9314490a0e92/e277a65942ad2aa03579?experience=power-bi)<br/>
 11. [Scatter Plot](https://app.powerbi.com/groups/me/reports/9f33e194-4f2e-4c39-ab79-248ec4d574fe/fe85fdf9ec86d8dc00e0?experience=power-bi)<br/>
 12. [Bubble Map Visual](https://app.powerbi.com/groups/me/reports/9483a7e0-0a1b-4944-9700-d8b7208f854a/165c9d1c3a250393708d?experience=power-bi)<br/>
+13. [Table Visual](https://app.powerbi.com/groups/me/reports/ef1371b2-6ce6-41f5-adf2-fcf4bf82fa20/4823b7e8e9aee8f31892?experience=power-bi)<br/>
+
 
 
 
