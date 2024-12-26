@@ -14,6 +14,8 @@
 13. [Table Visual](https://app.powerbi.com/groups/me/reports/ef1371b2-6ce6-41f5-adf2-fcf4bf82fa20/4823b7e8e9aee8f31892?experience=power-bi)<br/>
 14. [Matrix Visual](https://app.powerbi.com/groups/me/reports/9a29440d-215f-4e91-8433-de29a6bd9e69/472160cf23dfabeed580?experience=power-bi)<br/>
 15. [Funnel Chart](https://app.powerbi.com/groups/me/reports/ff5b6d7c-0679-459c-979f-52911c056781/9737ca839d984778ae39?experience=power-bi)<br/>
+16. [Gauge Chart](https://app.powerbi.com/groups/me/reports/b50e3e71-5af8-4870-8d4a-768ba091aa9e/b9857314ee327494cf05?experience=power-bi)<br/>
+
 
 
 
