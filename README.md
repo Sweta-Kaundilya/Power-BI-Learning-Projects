@@ -18,6 +18,8 @@
 17. [KPI Visual](https://app.powerbi.com/groups/me/reports/8d117549-1c74-4161-b525-57606ad3d3e5/1dea931557a783d27b1c?experience=power-bi)<br/>
 18. [Key Influencer Visual](https://app.powerbi.com/groups/me/reports/95329412-0925-438f-a329-6972b8da9a16/646816659752e82a4a0e?experience=power-bi)<br/>
 19. [Decomposition Tree](https://app.powerbi.com/groups/me/reports/4cfca53c-894c-49e7-8ce9-ea9c3afe74ba/7193e99ef48512c1559e?experience=power-bi)<br/>
+20. [Q & A](https://app.powerbi.com/groups/me/reports/8207e020-cac8-4a19-b5ab-18f4f27ece15/c51a056687f933c93798?experience=power-bi)<br/>
+
 
 
 
